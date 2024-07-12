@@ -1,0 +1,22 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "\"an express js project\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"nashw\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\"mk\""
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "mongoose": "^8.5.0"
+  },
+  "devDependencies": {}
+}
